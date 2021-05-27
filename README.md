@@ -7,41 +7,47 @@
 🔰 CLICK TEXT DOWN TO COPY🔰
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ##
+<br>
+💥 NOTE AUTHOR TOOLS DIBACA
+<br>
 
 ```
-$ CLICK HERE TEXT NOW TO COPY SIMPLE
-```
-
-```
-$ pkg update && pkg upgrade
-```
-
-```
-$ pkg install ruby -y
-```
-
-```
-$pkg install curl  -y
+Selamat Datang Bila Ingin Kalian Menginstall
+Silakan Copy / Pencet Tulisan Dibawah Otomatis
+Copy Tinggal Paste Di Terminal Cmd Lu Biar Gampang
+Gak Susah Susah Ok Thanks You Gaes Bye Bye See You
 ```
 
 ```
-$ gem install bundler:1.17.3
+pkg update && pkg upgrade
 ```
 
 ```
-$ curl -LO https://github.com/Bang-Sahrul-Gunawan-Cyber/MSF-LINUX-PACKAGE/blob/main/Metasploit-Framework.deb
+pkg install ruby -y
 ```
 
 ```
-$ chmod  +x * Metasploit-Framework.deb
+pkg install curl  -y
 ```
 
 ```
-$ dpkg -i Metasploit-Framework.deb
+gem install bundler:1.17.3
 ```
 
 ```
-$ apt install -f
+curl -LO https://github.com/Bang-Sahrul-Gunawan-Cyber/MSF-LINUX-PACKAGE/blob/main/Metasploit-Framework.deb
+```
+
+```
+chmod  +x * Metasploit-Framework.deb
+```
+
+```
+dpkg -i Metasploit-Framework.deb
+```
+
+```
+apt install -f
 ```
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 🔰 Follow Instagram : @Wes_Kadung_Rewel
