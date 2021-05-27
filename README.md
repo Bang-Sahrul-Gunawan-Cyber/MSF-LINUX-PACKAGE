@@ -15,7 +15,7 @@
 <br>
 ✅ curl -LO https://github.com/Bang-Sahrul-Gunawan-Cyber/MSF-LINUX-PACKAGE/blob/main/Metasploit-Framework.deb
 <br>
-✅ chmod  +x Metasploit-Framework.deb
+✅ chmod  +x * Metasploit-Framework.deb
 <br>
 ✅ dpkg -i Metasploit-Framework.deb
 <br>
