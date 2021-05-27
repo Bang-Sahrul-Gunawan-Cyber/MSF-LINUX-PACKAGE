@@ -9,7 +9,7 @@
 ##
 
 ```
-$ npm install
+$ CLICK HERE TEXT NOW TO COPY SIMPLE
 ```
 
 ```
