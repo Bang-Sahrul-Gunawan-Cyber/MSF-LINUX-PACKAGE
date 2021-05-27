@@ -2,25 +2,47 @@
 <br>
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 <br>
-#🔰 INSTALLER METASPLOIT 🔰
+🔰 INSTALLER METASPLOIT 🔰
+<br>
+🔰 CLICK TEXT DOWN TO COPY🔰
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-<br>
-✅ pkg update && pkg upgrade
-<br>
-✅ pkg install ruby -y
-<br>
-✅ pkg install curl  -y
-<br>
-✅ gem install bundler:1.17.3
-<br>
-✅ curl -LO https://github.com/Bang-Sahrul-Gunawan-Cyber/MSF-LINUX-PACKAGE/blob/main/Metasploit-Framework.deb
-<br>
-✅ chmod  +x * Metasploit-Framework.deb
-<br>
-✅ dpkg -i Metasploit-Framework.deb
-<br>
-✅ apt install -f
-<br>
+##
+
+```
+$ npm install
+```
+
+```
+$ pkg update && pkg upgrade
+```
+
+```
+$ pkg install ruby -y
+```
+
+```
+$pkg install curl  -y
+```
+
+```
+$ gem install bundler:1.17.3
+```
+
+```
+$ curl -LO https://github.com/Bang-Sahrul-Gunawan-Cyber/MSF-LINUX-PACKAGE/blob/main/Metasploit-Framework.deb
+```
+
+```
+$ chmod  +x * Metasploit-Framework.deb
+```
+
+```
+$ dpkg -i Metasploit-Framework.deb
+```
+
+```
+$ apt install -f
+```
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 🔰 Follow Instagram : @Wes_Kadung_Rewel
 <br>
@@ -34,6 +56,6 @@
 <br>
 🔰 My Website : https://sahrulgunawan-cyber-tlogo.web.app
 <br>
-🔰 Thanks You For Follow 
+🔰 Thanks You For Follow
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
