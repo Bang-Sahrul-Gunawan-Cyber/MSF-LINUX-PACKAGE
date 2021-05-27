@@ -1,9 +1,9 @@
 ✅METASPLOIT STABLE VERSION PACKAGE✅
 <br>
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 <br>
 #🔰 INSTALLER METASPLOIT 🔰
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 <br>
 ✅ pkg update && pkg upgrade
 <br>
@@ -13,13 +13,15 @@
 <br>
 ✅ gem install bundler:1.17.3
 <br>
+✅ curl -LO https://github.com/Bang-Sahrul-Gunawan-Cyber/MSF-LINUX-PACKAGE/blob/main/Metasploit-Framework.deb
+<br>
 ✅ chmod  +x Metasploit-Framework.deb
 <br>
 ✅ dpkg -i Metasploit-Framework.deb
 <br>
 ✅ apt install -f
 <br>
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 🔰 Follow Instagram : @Wes_Kadung_Rewel
 <br>
 🔰 Follow Instagram : @Editor.Santuy.Project
@@ -33,5 +35,5 @@
 🔰 My Website : https://sahrulgunawan-cyber-tlogo.web.app
 <br>
 🔰 Thanks You For Follow 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
