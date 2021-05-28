@@ -35,7 +35,7 @@ gem install bundler:1.17.3
 ```
 
 ```
-git clone ttps://github.com/Bang-Sahrul-Gunawan-Cyber/MSF-LINUX-PACKAGE/blob/main/Metasploit-Framework.deb
+git clone ttps://github.com/Bang-Sahrul-Gunawan-Cyber/MSF-LINUX-PACKAGE
 ```
 ```
 cd MSF-LINUX-PACKAGE
